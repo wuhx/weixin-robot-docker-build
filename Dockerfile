@@ -1,7 +1,6 @@
 FROM ubuntu:14.04
 MAINTAINER wuhx <i@xun.im>
 
-
 RUN locale-gen en_US.UTF-8
 ENV LANG en_US.UTF-8
 
